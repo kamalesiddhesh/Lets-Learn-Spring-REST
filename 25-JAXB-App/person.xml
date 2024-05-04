@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<address>
+		<city>Mumbai</city>
+		<country>India</country>
+		<state>Maharashtra</state>
+	</address>
+	<email>abc@xyz.com</email>
+	<gender>Male</gender>
+	<id>101</id>
+	<name>Aniket</name>
+</person>

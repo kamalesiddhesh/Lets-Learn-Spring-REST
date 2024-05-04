@@ -1,0 +1,11 @@
+{
+	"name": "Raju",
+	"from": "Mumbai",
+	"to": "Delhi",
+	"gender": "Male",
+	"address": {
+		"city": "Mumbai",
+		"state": "Maharashtra",
+		"country": "India"
+	}
+}
